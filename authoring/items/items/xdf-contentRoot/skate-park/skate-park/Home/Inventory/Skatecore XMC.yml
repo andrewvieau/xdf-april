@@ -1,0 +1,40 @@
+﻿---
+ID: "c30fb8cc-f25d-4e44-bd69-2cb70b6c4586"
+Parent: "7553aa10-0594-4cf8-81b2-d2f3dcad33bf"
+Template: "3d30b015-4942-448a-be9f-23b6cbd6580d"
+Path: "/sitecore/content/skate-park/skate-park/Home/Inventory/Skatecore XMC"
+SharedFields:
+- ID: "3870ce5b-69ce-4e79-bd2e-df1c283963c6"
+  Hint: SKU
+  Value: "{C30FB8CC-F25D-4E44-BD69-2CB70B6C4586}"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{407B4FB2-E618-4122-AAF3-C8D90BBFA962}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "40fdc06b-4018-403f-b91d-e33d985b153e"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250415T172331Z
+    - ID: "4c0c2ae2-fc84-4aa0-bf14-e13268e5625b"
+      Hint: Title
+      Value: Skatecore XMC
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Skatecore XMC
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ab6004bd-53ee-45b1-8c16-1141c2920475"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250415T172331Z

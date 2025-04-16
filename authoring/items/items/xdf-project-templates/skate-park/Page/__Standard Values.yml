@@ -1,0 +1,43 @@
+﻿---
+ID: "06f63566-3048-4525-b17e-56e984fc5760"
+Parent: "e872bc3d-e466-433a-a7d0-a32b7d882d6e"
+Template: "e872bc3d-e466-433a-a7d0-a32b7d882d6e"
+Path: "/sitecore/templates/Project/skate-park/Page/__Standard Values"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {E872BC3D-E466-433A-A7D0-A32B7D882D6E}
+    {C14B6289-8AC2-439C-9E5B-40DE9F820C3F}
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "23c4dcb1-96b1-4642-a306-a834c07b80b6"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250415T140610Z
+    - ID: "4c0c2ae2-fc84-4aa0-bf14-e13268e5625b"
+      Hint: Title
+      Value: $name
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5741765c-0252-4890-b80c-3b0d2db4ed95"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250415T140618Z

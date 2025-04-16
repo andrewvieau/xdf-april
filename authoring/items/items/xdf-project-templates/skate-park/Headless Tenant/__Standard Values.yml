@@ -1,0 +1,31 @@
+﻿---
+ID: "7fc7b943-96cb-4bf2-8a36-4e9fbebdcc70"
+Parent: "e793b79e-73e7-4bb3-89ae-2571b556b1f5"
+Template: "e793b79e-73e7-4bb3-89ae-2571b556b1f5"
+Path: "/sitecore/templates/Project/skate-park/Headless Tenant/__Standard Values"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250415T140611Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "037f84db-2d09-43dc-bc9f-93591b9139c1"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250415T140611Z

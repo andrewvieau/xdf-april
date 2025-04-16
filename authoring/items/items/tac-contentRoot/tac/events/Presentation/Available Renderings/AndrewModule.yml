@@ -1,0 +1,46 @@
+﻿---
+ID: "c1b95898-7b4a-4f74-80bc-4fb7f4a06536"
+Parent: "d2e0cec4-c071-4fc6-a2ca-7d483f7094e4"
+Template: "76da0a8d-fc7e-42b2-af1e-205b49e43f98"
+Path: /sitecore/content/tac/events/Presentation/Available Renderings/AndrewModule
+BranchID: "175b5371-c472-420a-aa29-2a9c20446b42"
+SharedFields:
+- ID: "715ae6c0-71c8-4744-ab4f-65362d20ad65"
+  Hint: Renderings
+  Value: |
+    {74382EEA-9292-49C8-87F4-C3BF3D6D1814}
+    {2CD77E52-8E87-4916-84B0-BB13A3D9874E}
+    {B6018737-B444-4928-952E-8FD793A81CAB}
+    {6A5A4B79-5C13-433E-88B1-6A4E272DCD7B}
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "6915553c-9787-4d36-8743-2ffd17e24ed3"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{30EB5AC8-99ED-4426-A212-4D155181AD41}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250416T155550Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a393e7db-f7a1-4def-b0ba-a0186ad9f080"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250416T182612Z

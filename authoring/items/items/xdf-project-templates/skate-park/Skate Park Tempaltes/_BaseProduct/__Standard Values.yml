@@ -1,0 +1,39 @@
+﻿---
+ID: "1e3e31ef-a4d8-4822-9d60-222866657611"
+Parent: "da3cb599-b88d-4403-8d1e-9bbae4bae790"
+Template: "da3cb599-b88d-4403-8d1e-9bbae4bae790"
+Path: "/sitecore/templates/Project/skate-park/Skate Park Tempaltes/_BaseProduct/__Standard Values"
+SharedFields:
+- ID: "3870ce5b-69ce-4e79-bd2e-df1c283963c6"
+  Hint: SKU
+  Value: $id
+Languages:
+- Language: en
+  Fields:
+  - ID: "3be582f4-697f-4921-a01e-1430b88ec288"
+    Hint: Price
+    Value: $50
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250415T170922Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ee5eb596-da5e-46f3-a824-91804a946f6f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250415T171951Z

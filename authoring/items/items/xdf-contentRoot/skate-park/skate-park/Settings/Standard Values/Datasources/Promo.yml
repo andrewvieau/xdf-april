@@ -1,0 +1,23 @@
+﻿---
+ID: "eebb1286-2d43-40ba-9b31-d5e6dbf03e36"
+Parent: "1c7c3311-4be9-44af-8599-e873d00fb6fb"
+Template: "dfed4457-d760-457a-bec1-c0dccdc44381"
+Path: "/sitecore/content/skate-park/skate-park/Settings/Standard Values/Datasources/Promo"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250415T190448Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d17ed1a7-17fc-4bdf-bcd9-de50aaf2accc"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250415T190448Z

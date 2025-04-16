@@ -1,0 +1,42 @@
+﻿---
+ID: "8c691dcd-99f8-477d-83fb-9326a592e6ea"
+Parent: "58524054-64bd-4f2c-8fcb-4b6a3ef94912"
+Template: "4823fc63-582f-4430-828d-1c272fddac9f"
+Path: "/sitecore/content/skate-park/skate-park/Presentation/Page Designs"
+BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
+SharedFields:
+- ID: "ba1f60d6-3deb-40cc-bb61-eec772279ee1"
+  Hint: TemplatesMapping
+  Value: "%7bE872BC3D-E466-433A-A7D0-A32B7D882D6E%7d%3d%257B27565169-9818-485E-8D3C-313AB654DA4B%257D%26%7b7922832E-B5BC-4124-8CB2-D65BE4DD410D%7d%3d%257B27565169-9818-485E-8D3C-313AB654DA4B%257D%26%7b3D30B015-4942-448A-BE9F-23B6CBD6580D%7d%3d%257B7BE8C86E-44B8-4ACA-AAC8-611067FFF8A6%257D%26%7bDBA4D43F-A27C-4909-B181-32C27082140B%7d%3d%257B7BE8C86E-44B8-4ACA-AAC8-611067FFF8A6%257D"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "c789121b-e16a-4690-9fd1-1a2f204f637e"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{2EA756FA-AED6-4599-83B7-36FEFE229B31}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250415T140744Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e7beb695-82a7-4292-b9e7-fdfdc39a23fc"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250415T180541Z

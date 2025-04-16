@@ -1,0 +1,58 @@
+﻿---
+ID: "7553aa10-0594-4cf8-81b2-d2f3dcad33bf"
+Parent: "fbdb3d56-cb7d-442e-9b86-3eabddbee7fd"
+Template: "7922832e-b5bc-4124-8cb2-d65be4dd410d"
+Path: "/sitecore/content/skate-park/skate-park/Home/Inventory"
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{F6BD05DF-50FD-4887-A2C1-EA1829C8DE4A}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "ca60c1c0-db5e-4337-a86b-201d209af0fb"
+- ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
+  Hint: __Security
+  Value: |
+    ar|sitecore\Adventure Company User|pd|+item:delete|
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{E018127B-6AC5-4C82-8235-0C7C94E422C6}"
+              s:id="{1DEB067F-0BB1-405E-94F5-2ABB537A6160}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B42F659B1-5603-4130-9E8B-3CAF48FFF544%7D&amp;Styles&amp;NavigationRoot&amp;LevelFrom=%7BA59325BB-5A27-46F9-8110-9D499715F3BE%7D&amp;LevelTo=%7BA59325BB-5A27-46F9-8110-9D499715F3BE%7D&amp;Filter&amp;Flattened&amp;AddRoot&amp;SerializerFieldNames&amp;RenderingIdentifier&amp;CSSStyles"
+              s:ph="headless-main" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250415T172322Z
+    - ID: "4c0c2ae2-fc84-4aa0-bf14-e13268e5625b"
+      Hint: Title
+      Value: Inventory
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Inventory
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5a5885d1-41f0-4813-93f2-d568a226b826"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250415T192354Z
